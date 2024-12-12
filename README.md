@@ -133,6 +133,8 @@ To set up the hardware, follow the wiring diagram below. This diagram shows how 
     - Positive to D6
     - Negative to GND
 
+![Board 1](doc/readme/board_1.jpg) 
+![Board 2](doc/readme/board_2.jpg) 
 ## Report Images
 
 - **Banana Ripening Images**:
